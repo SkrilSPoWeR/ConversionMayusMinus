@@ -12,7 +12,7 @@ int main(int argc, char const *argv[]){
 
     string palabra = "";
     
-    cout<<"Escribe parabra y te diré su longitud: ";
+    cout<<"Escribe parabra y la transformaré: ";
     getline(cin, palabra); //Solicito string
 
     //Impresion de pantalla
